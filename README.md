@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekahpruthvi&label=Profile%20views&color=0e75b6&style=flat" alt="ekahpruthvi" /> </p>
 
-- 🔭 I’m currently working on **cynageos a power user OS**
+- 🔭 I’m currently working on **cynageos /* a power user oriented OS */**
 
 - 🌱 I’m currently learning **Gtk and rust lib**
 
