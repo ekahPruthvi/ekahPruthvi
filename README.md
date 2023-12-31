@@ -2,16 +2,7 @@
 <h3 align="center">A passionate frontend devloper and a linux and FOSS enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekahpruthvi&label=Profile%20views&color=0e75b6&style=flat" alt="ekahpruthvi" /> </p>
-
-- 🔭 I’m currently working on **cynageos /* a power user oriented OS */**
-
-- 🌱 I’m currently learning **Gtk and rust lib**
-
-- 💬 Ask me about **Linux**
-
-- 📫 How to reach me **p1sribhat@gmail.com**
-
-- ⚡ Fun fact **I am sporty**
+![git - Made with Clipchamp](https://github.com/ekahPruthvi/ekahPruthvi/assets/136414172/ad987f1c-970f-4873-bc3e-d35132a5c00b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
