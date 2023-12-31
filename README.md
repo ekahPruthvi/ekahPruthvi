@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend devloper and a linux and FOSS enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekahpruthvi&label=Profile%20views&color=0e75b6&style=flat" alt="ekahpruthvi" /> </p>
-[git - Made with Clipchamp](https://github.com/ekahPruthvi/ekahPruthvi/assets/136414172/ad987f1c-970f-4873-bc3e-d35132a5c00b)
+![git](https://github.com/ekahPruthvi/ekahPruthvi/assets/136414172/b6f91454-13dd-442b-9318-19cdd183424a)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
